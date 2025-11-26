@@ -22,4 +22,4 @@ It replaces any `.svg-icon-wrap` element with matching SVG content.
 ## 📦 CDN Usage (jsDelivr)
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/YOUR_USERNAME/svg-icon-loader/dist/svg-icon-loader.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ser-manjeet/svg-icon-loader/dist/svg-icon-loader.min.js"></script>
